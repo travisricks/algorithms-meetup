@@ -12,6 +12,8 @@ A 2-D array of 0's and 1's where 0 represents water and 1 represents land;
 
 An integer representing the number of islands on the map. (If two pieces of land are next to each other on the same column or same row, they are considered "connected" and are thus part of the same island)
 
+Challenge mode: If two pieces of land are diagonal, they are also considered "connected."
+
 ## Example
 
 Map:
