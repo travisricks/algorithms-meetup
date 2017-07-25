@@ -33,6 +33,14 @@ Roughly speaking...
 * 4 = Advanced Medium, CS knowledge probably helps
 * 5 = Headache, CS knowledge will definitely help
 
+## Resources
+
+* [Big O Complexity Cheatsheet](http://bigocheatsheet.com/)
+* [Stanford's Algorithms Course on Coursera](https://www.coursera.org/specializations/algorithms)
+* [Algorithms and Data Structures Cheatsheet](http://algs4.cs.princeton.edu/cheatsheet/)
+* [How to Ace an Algorithms Interview by Palantir](https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/)
+* [How to Rock at Whiteboarding](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/)
+
 ## Contribute
 
 See a typo or problem? Want to add a tip or solution? Fork this repository and make a pull request!
