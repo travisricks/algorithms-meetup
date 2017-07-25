@@ -1,15 +1,23 @@
 # Code Chrysalis Algorithms Meetup!
 
-Let's make our heads hurt :)
+Let's make our heads hurt together :)
+
+## About the Algos Meetup
+
+Our meetup is welcome to algorithm lovers of **all languages AND levels**. We want this to be a space where people can work through fun algos together and learn from each other.
+
+* Almost all the algorithm questions are language agnostic. This means that they can be solved by any language you prefer.
+* Feel free to work alone, in a pair, or on a team! Make a friend!
+* Discussing with others is highly encouraged! Make a friend!
+* When presenting your solution in front of people, please use pseudo-code language (e.g. "I loop through the array and choose only the items that match the target.").
+* Feel free to contribute! Put your algos into the `algorithm-drafts` folder.
 
 ## Meetup Rules
 
-Our meetup is welcome to algorithm lovers of all languages AND levels. We want this to be a space where people can work through fun algos together and learn from each other.
-
-* Be kind and considerate to everyone's questions and answers
-* Be encouraging, helpful, and patient to those who have less knowledge/experience than you
-* Ask questions and listen to those who have more knowledge/experience than you
-* There are many ways of solving these algorithms, so please be open to other possibilities
+* **Be kind and considerate** to everyone's questions and answers
+* **Be encouraging, helpful, and patient** to those who have less knowledge/experience than you
+* **Ask questions and listen** to those who have more knowledge/experience than you
+* There are many ways of solving these algorithms, so please **be open** to other possibilities
 
 ## Rating System
 
@@ -19,11 +27,11 @@ Algorithms are rated from 1 to 5.
 
 Roughly speaking...
 
-* 1 = Great for those just getting started with coding
-* 2 = Simple
+* 1 = Beginners
+* 2 = Advanced Beginners
 * 3 = Medium
-* 4 = Medium, some CS knowledge probably helps
-* 5 = Hard, some CS knowledge probably helps
+* 4 = Advanced Medium, CS knowledge probably helps
+* 5 = Headache, CS knowledge will definitely help
 
 ## Contribute
 
