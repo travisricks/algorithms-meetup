@@ -40,11 +40,15 @@ Boolean (true or false)
 
 ## Example
 
-Input: 'palindrome', 'emordnilap'
-Output: true
+Example 1
 
-Input: 'string', 'gnirst'
-Output: false
+* Inputs: 'palindrome', 'emordnilap'
+* Output: true
+
+Example 2
+
+* Inputs: 'string', 'gnirst'
+* Output: false
 
 ## Tips
 
