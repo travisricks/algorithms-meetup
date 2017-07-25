@@ -22,11 +22,11 @@ The output should be an array of [Element nodes](https://developer.mozilla.org/e
 
 ## Example
 
-Check out `document.getElementsByClassName` out! It should work exactly like that.
+Check `document.getElementsByClassName` out in your browser console! It should work exactly like that.
 
 ## Constraints
 
-You are not allowed to use the native method, of course.
+You are not allowed to use the native method (`document.getElementsByClassName`), of course.
 
 ## Tips
 
