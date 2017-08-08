@@ -2,7 +2,7 @@
 
 ## Summary
 
-You are given a NxN board with robots (2) and walls (1) scattered all about. You are given only one bomb.
+You are given a `N`x`N` board with robots (2) and walls (1) scattered all about. You are given only one bomb.
 
 Your mission is to kill as many robots as possible.
 
@@ -13,7 +13,7 @@ A few constraints:
 
 ## Input
 
-A 2-D matrix of NxN with robots represented by 2 and walls represented by 1. Empty spaces are marked as 0.
+A 2-D matrix of `N`x`N` with robots represented by 2 and walls represented by 1. Empty spaces are marked as 0.
 
 ## Output
 
@@ -36,8 +36,8 @@ Input:
 ]
 ```
 
-Output: [4, 1]
+Output: `[4, 1]`
 
 ## Constraints 
  
-4 < N < 10^5
+4 < `N` < 10^5
