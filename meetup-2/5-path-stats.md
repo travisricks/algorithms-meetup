@@ -36,7 +36,7 @@ For the third and fourth queries, the path is composed by [1, 2, 1, 2, 3]. Since
 
 ## Constraints 
 
-1 <= n, q <= 5 x 10<sup>4</sup>
-1 <= c<sub>i</sub> <= 10<sup>9</sup>
-1 <= u, u <= n
-1 <= k <= number of distinct values on teh path between u and v
+1 <= n, q <= 5 x 10<sup>4</sup>  
+1 <= c<sub>i</sub> <= 10<sup>9</sup>  
+1 <= u, v <= n  
+1 <= k <= number of distinct values on the path between u and v
