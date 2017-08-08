@@ -2,7 +2,7 @@
 
 ## Summary
 
-You are given a tree with `n` nodes, that is, an acyclic connected graph, where each node `i` is assigned a value `c<sub>i</sub>`.
+You are given a tree with `n` nodes, that is, an acyclic connected graph, where each node `i` is assigned a value `c`<sub>i</sub>.
 
 You must answer `q` queries in the form `u v k`. For each query, find and print the `k^th` most frequent value on the path between `u` and `v`. If two values appear the same number of times, for tie-breaking, the smaller number is considered less frequent than, the bigger one.
 
