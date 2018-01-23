@@ -12,7 +12,7 @@ Let's write a function that can take a phone number and return a list of all the
 
 ## Input
 
-A string that is up to 4 numbers long
+A string `T` that is up to 4 numbers long
 
 ## Output
 
@@ -23,6 +23,10 @@ An array of all the possible telephone words
 Input: '2745'
 
 Output: ['APGJ', 'APGK', 'APGL',.......,'CSIL']
+
+## Constraints
+
+1 <= length of `T` <= 4
 
 ## Tips
 
