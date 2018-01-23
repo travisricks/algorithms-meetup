@@ -12,8 +12,8 @@ Tree A, Tree B, and the value of the target node
 
 ## Output
 
-The parent node of the target node
+The corresponding node's parent in Tree B
 
 ## Constraints
 
-Can you do this in O(n)?
+Can you do this in O(log-n)?
