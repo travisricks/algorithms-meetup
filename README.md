@@ -49,6 +49,6 @@ See a typo or problem? Want to add a tip or solution? Fork this repository and m
 
 We are always welcome to more awesome algorithms to present in future meetups!
 
-To make a contribution, please fork this repository, add in your algorithm readme (see our template---TEMPLATE.md) to the `algorithm-drafts` folder and make a pull request.
+To make a contribution, please fork this repository, add in your algorithm readme (see our template---TEMPLATE.md) to the `meetup-n` folder and make a pull request.
 
 Please let [yan](mailto:yan@codechrysalis.io) know if you have any questions or concerns.
