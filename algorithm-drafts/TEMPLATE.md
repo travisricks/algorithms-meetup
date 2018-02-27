@@ -16,8 +16,8 @@ What will be the output?
 
 Give 1-2 example inputs and respective outputs.
 
-## Constraints 
- 
+## Constraints
+
 Constraints for inputs, outputs, or space/time complexity.
 
 ## Tips
