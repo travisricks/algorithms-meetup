@@ -22,7 +22,7 @@ Input: `"Jived fox nymph grabs quick waltz"`
 Output: `true`
 
 Input: `"My fox nymph grabs a quick waltz"`
-Output: `true`
+Output: `false`
 
 ## Tips
 
