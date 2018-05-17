@@ -4,7 +4,7 @@
 
 In the game of Scrabble, players fight to the death by placing letter tiles on a board to create words. Each letter is worth a different number of points and a word's score is calculated by adding the point value of each letter.
 
-Given a list of words, find the word that contains the highest possible Scrabble score. If multiple words have the same socre, return the word that is alphabetically first.
+Given a list of words, find the word that contains the highest possible Scrabble score. If multiple words have the same score, return the word that is alphabetically first.
 
 For your convenience, the point value of each letter is provided as JSON at the bottom of this page.
 
