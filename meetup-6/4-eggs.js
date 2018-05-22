@@ -3,7 +3,7 @@ function countDrops(buildingHeight = 200, numEggs = 3, maxSafeFloor, knownMaxSaf
     return maxSafeFloor - knownMaxSafeFloor;
   }
   // Try to divide the problem space
-  let floorToTry = Math.ceil((knownMaxSafeFloor + knownMinUnsafeFloor) / numEggs);
+  let floorToTry = Math.floor((knownMaxSafeFloor + knownMinUnsafeFloor) / 2);
   if (floorToTry < maxSafeFloor) {
     return countDrops(buildingHeight, numEggs - 1, maxSafeFloor, floorToTry, knownMinUnsafeFloor);
   } else {
@@ -17,13 +17,13 @@ const MAX_NUM_EGGS = 3;
 let worst = 0;
 
 for (let buildingHeight = 0; buildingHeight <= MAX_BUILDING_HEIGHT; ++buildingHeight) {
-  console.log(`buildingHeight -> ${buildingHeight}`);
+  // console.log(`buildingHeight -> ${buildingHeight}`);
   for (let maxSafeFloor = 1; maxSafeFloor <= buildingHeight; ++maxSafeFloor) {
-    console.log(`maxSafeFloor -> ${maxSafeFloor}`);
+    // console.log(`maxSafeFloor -> ${maxSafeFloor}`);
     for (let numEggs = 3; numEggs <= MAX_NUM_EGGS; ++numEggs) {
-      console.log(`numEggs -> ${numEggs}`);
+      // console.log(`numEggs -> ${numEggs}`);
       const result = countDrops(buildingHeight, numEggs, maxSafeFloor);
-      console.log(`countDrops -> ${result}`);
+      // console.log(`countDrops -> ${result}`);
       if (result > worst) {
         worst = result;
       }
@@ -31,4 +31,7 @@ for (let buildingHeight = 0; buildingHeight <= MAX_BUILDING_HEIGHT; ++buildingHe
   }
 }
 
+
 console.log(`worst -> ${worst}`);
+
+console.log(countDrops(200, 3, 1));
