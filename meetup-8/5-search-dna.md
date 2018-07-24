@@ -24,6 +24,8 @@ Your goal is to construct a "state machine" to do this. The state machine will h
 
 Example:
 Target: "CAT"
+
+```
 state-1 -> C -> go to state-2 
         -> A -> go to state-1
         -> T -> go to state-1
@@ -38,8 +40,7 @@ state-3 -> C -> go to state-2
         -> A -> go to state-1
         -> T -> You found a match!
         -> G -> go to state-1
-
-Constr
+```
 
 ## Input
 
