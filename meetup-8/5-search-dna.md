@@ -10,16 +10,15 @@ How its done:
 2. COOL-BIO-TECH-COMPANY checks their submitted sequences against a list of DNA sequences that correspond to genetic traits
 3. COOL-BIO-TECH-COMPANY returns the list of matches to the customer.
 
-Your goal is a small part of this operation. You will be given many different DNA sequences provided by customers to search against (the customer's genomes), and a series of specific DNA sequences you are looking for.
+Your goal is a small part of this operation. You will be given many different DNA sequences provided by customers to search against (the customer's genomes), and a series of specific DNA sequences you are looking for (traits).
 
-You could solve this by looping over the customers genome, checking if it matches target genetic trait at each location, and restarting beginning at the next index when a mismatch is detected. In the worst case, this will take O(n x m) where n is genome length and m is the length of the trait we're looking for
-
-We can do much better than this. Imagine we're searching for the sequence ATTATTG in a genome which starts with "ATTATTA...".
-
+Example:
 Customer's Genome: "ATTATTA..."
 Target: "ATTATTG"
 
-This does not match our sequence (it ends with an 'A' not a 'G' at index 7). However, based on what pairs we have seen so far we know that ATT*ATTA*... matches the first part of the sequence we're looking for: *ATTA*TTG. We should remember this partial match, and continue reading the next letter (expecting to see a T next). By remember these partials matches, we only ever need to read each letter in the Customer's Genome once.
+You could solve this by looping over the customers genome, checking if it matches target the genetic trait at each location, and restarting beginning at the next index when a mismatch is detected. In the worst case, this will take O(n x m) where n is genome length and m is the length of the trait we're looking for
+
+We can do much better than this. Imagine we're searching for the sequence ATTATTG in a genome which starts with "ATTATTA..." (shown above). This does not match our sequence (it ends with an 'A' not a 'G' at index 7). However, based on what pairs we have seen so far we know that ATT*ATTA*... matches the first part of the sequence we're looking for: *ATTA*TTG. We should remember this partial match, and continue reading the next letter (expecting to see a T next). By remember these partials matches, we only ever need to read each letter in Customer's Genome once.
 
 Your goal is to construct a "state machine" to do this. The state machine will have a number of states equal to the number base pairs in the sequence. Each state will point to a previous state if the next base in the given sequence is not found.
 
