@@ -47,8 +47,30 @@ See a typo or problem? Want to add a tip or solution? Fork this repository and m
 
 ### Sharing Algorithms
 
-We are always welcome to more awesome algorithms to present in future meetups!
+Have a cool algo? Please contribute. We are always looking for awesome algorithms to present in future meetups!
 
 To make a contribution, please fork this repository, add in your algorithm readme (see our template---TEMPLATE.md) to the `meetup-n` folder and make a pull request.
 
-Please let [yan](mailto:yan@codechrysalis.io) know if you have any questions or concerns.
+Please let [Yan](mailto:yan@codechrysalis.io) know if you have any questions or concerns.
+
+## About Code Chrysalis
+
+[Code Chrysalis](https://www.codechrysalis.io) is a coding school based in Tokyo with the only [advanced full-stack software engineering bootcamp](https://www.codechrysalis.io/immersive) in Asia. In addition to our full-time bootcamp, we have two part-time programs---[an introductory coding course](https://www.codechrysalis.io/foundations) and [an English communication intensive](https://www.codechrysalis.io/english).
+
+You can find us on:
+
+* [YouTube](https://www.youtube.com/c/codechrysalis)
+* [Meetup](https://www.meetup.com/codechrysalis) for events!
+* [Facebook](https://www.facebook.com/codechrysalis) @CodeChrysalis
+* [Instagram](https://www.instagram.com/codechrysalis) @CodeChrysalis
+* [Twitter](https://www.twitter.com/codechrysalis) @CodeChrysalis
+* [Medium](http://medium.com/code-chrysalis) @code-chrysalis
+
+You should check out:
+
+* [a previous student's blog about his experience](http://sqlmd.wordpress.com/)
+* [our most recent graduating class](https://www.codechrysalis.io/cc4)
+
+We have been featured in numerous pubications including [Reuters](https://www.reuters.com/article/us-japan-coding-bootcamp/silicon-valley-style-coding-boot-camp-seeks-to-reset-japan-inc-idUSKBN1JF32A), [Nikkei ITPro](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/120401233/?n_cid=nbpitp_fbed&rt=nocnt), [Japan Times](https://www.japantimes.co.jp/news/2018/06/20/business/tech/silicon-valley-style-coding-boot-camp-seeks-reset-japan-inc/), and [more](https://www.codechrysalis.io/news).
+
+If you're interested in our upcoming [Immersive](https://www.codechrysalis.io/immersive) course, please [apply](https://www.codechrysalis.io/apply)!
