@@ -4,7 +4,7 @@ Let's make our heads hurt together :)
 
 ## About the Algos Meetup
 
-Our meetup is welcome to algorithm lovers of **all languages AND levels**. We want this to be a space where people can work through fun algos together and learn from each other.
+[Our meetup](https://www.meetup.com/codechrysalis) is welcome to algorithm lovers of **all languages AND levels**. We want this to be a space where people can work through fun algos together and learn from each other.
 
 * Almost all the algorithm questions are language agnostic. This means that they can be solved by any language you prefer.
 * Feel free to work alone, in a pair, or on a team! Make a friend!
