@@ -33,3 +33,7 @@ needle   <-- "ccd"
 OUTPUT
 [2, 9]
 ```
+
+## Constraints
+
+If you really want the challenge, don't use built-in functions like `indexOf`
