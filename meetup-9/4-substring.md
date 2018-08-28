@@ -27,11 +27,11 @@ OUTPUT
 
 ```
 INPUT
-haystack <-- "abccdabcdccd"
-needle   <-- "ccd"
+haystack <-- "abcccdabcdccd"
+needle   <-- "cc"
 
 OUTPUT
-[2, 9]
+[2, 3, 10]
 ```
 
 ## Constraints
