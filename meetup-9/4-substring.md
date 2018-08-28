@@ -2,7 +2,7 @@
 
 ## Summary
 
-You are given two strings, a _hatstack_ and a _needle_.
+You are given two strings, a _haystack_ and a _needle_.
 
 Your mission is to return the positions within the _haystack_ that contain the _needle_.
 
