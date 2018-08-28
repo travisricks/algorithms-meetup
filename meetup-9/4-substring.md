@@ -36,4 +36,4 @@ OUTPUT
 
 ## Constraints
 
-If you really want the challenge, don't use built-in functions like `indexOf`
+If you really want the challenge, don't use built-in functions like `indexOf`.
