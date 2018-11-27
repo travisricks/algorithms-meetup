@@ -1,4 +1,4 @@
-# Spirals
+# Largest Sum
 
 ## Summary
 
@@ -17,3 +17,7 @@ Output should be a number.
 Input: `[3, 2, -1, 5, 7, -100, 90, 1]`
 
 Output: `97`
+
+## Constraints
+
+Can you do it in O(log n) time? [Big O Cheatsheet](http://bigocheatsheet.com/)
