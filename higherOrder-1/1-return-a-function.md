@@ -11,7 +11,7 @@ Assume all inputs are integers.
 
 ## Output
 
-Your output should be an integer
+Your output should be a function. The returned function should multiply an argument by the specified multiplier. 
 
 ## Example 1
 
