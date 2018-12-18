@@ -2,7 +2,7 @@
 
 ## Summary
 
-Create a function which returns a function that multiplies a given input by a specific number.
+Create a function which takes a single integer argument and returns a new function. The resulting function takes an integer argument and multiplies it by the integer from the original function creator.
 
 ## Input
 

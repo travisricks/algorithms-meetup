@@ -2,12 +2,12 @@
 
 ## Summary
 
-Create a function which takes two arguments: a value and a function.
-The function should return the result of the function called with the value as an argument.
+Create a function which takes a value and another function as arguments.
+It should return the results of the argument function called with the value.
 
 ## Input
 
-Your input will be a value (integer, string, boolean) and a function.
+Your input will be a value (i.e. integer, string, or boolean) and a function.
 
 ## Example 1
 
