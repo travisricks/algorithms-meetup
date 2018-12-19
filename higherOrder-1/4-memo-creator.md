@@ -2,11 +2,11 @@
 
 ## Summary
 
-Create a function `memoCreator` which takes a function `func` as an argument and returns a function that when called multiple times with the same arguments, only runs `func` once and stores it's result in a memo. If called a second time, instead of calling `func` again, return the value from the memo.
+Create a function `memoCreator` which takes a function (`func`) as an argument and returns a function that when called multiple times with the same arguments, only runs `func` once and stores it's result in a memo. If called a second time, instead of calling `func` again, return the value from the memo.
 
 ## Input
 
-Your input is a function `func`.
+Your input is a function (`func`).
 
 ## Output
 

@@ -2,12 +2,12 @@
 
 ## Summary
 
-Create a function `execute` which takes two arguments; a value of any kind `param` and another function `func`.
-`execute` should return the result of calling `func` with `param` as an argument.
+Create a function `execute` which takes two arguments; a value of any kind (`param`) and another function (`func`).
+`execute` should return the result of calling (`func`) with (`param`) as an argument.
 
 ## Input
 
-Your input will be a value `param` and a function `func`.
+Your input will be a value (`param`) and a function (`func`).
 
 ## Example 1
 
