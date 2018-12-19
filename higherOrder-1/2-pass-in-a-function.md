@@ -7,7 +7,7 @@ Create a function `execute` which takes two arguments; a value of any kind `para
 
 ## Input
 
-Your input will be a value (i.e. integer, string, or boolean) and a function.
+Your input will be a value `param` and a function `func`.
 
 ## Example 1
 
@@ -25,9 +25,9 @@ function positive(x) {
   }
   return false
 }
-execute(20, positive)
+console.log(execute(20, positive));
 // should return 'true'
 
-execute(-5, positive)
+console.log(execute(-5, positive))
 // should return 'false'
 ```

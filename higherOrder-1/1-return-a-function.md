@@ -6,8 +6,9 @@ Create a function `multiplier` which takes a number `x` as an argument and retur
 
 ## Input
 
-Your input an integer which is multiplied with another input.
-Assume all inputs are integers.
+`multiplier` will take an integer `x` becomes the multiplier in the resulting function.
+The resulting function will take an integer `y` as an argument.
+Assume `x` and `y` inputs only take integers.
 
 ## Output
 
@@ -19,9 +20,9 @@ Your output should be a function. The returned function should multiply an argum
 let double = multiplier(2);
 let triple = multiplier(3);
 
-double(4)
+console.log(double(4))
 //should output: 8
 
-triple(5)
+console.log(triple(5))
 //should output: 15
 ```

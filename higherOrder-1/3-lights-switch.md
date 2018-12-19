@@ -22,3 +22,6 @@ lightSwitch();
 lightSwitch();
 //should output: 'Lights Off!'
 ```
+
+#### Hint
+This exercise requires the use of closures. You should be creating a boolean variable inside the original function.
