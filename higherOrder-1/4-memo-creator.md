@@ -2,7 +2,7 @@
 
 ## Summary
 
-Create a function which returns a memo function that stores an input and its result. If the function is called with a new input, it will add it to the memo. If the function is called with a previously run input, it will return the stored answer.
+Create a function `memoCreator` which takes a function `func` as an argument and returns a function that when called multiple times with the same arguments, only runs `func` once and stores it's result in a memo. If called a second time, instead of calling `func` again, return the value from the memo.
 
 ## Input
 
@@ -19,7 +19,7 @@ function addTwo(x){
   return x + 2;
 }
 
-let plusTwoCalc = memo-creator(function);
+let plusTwoCalc = memoCreator(function);
 
 plusTwoCalc(2);
 //should log or return '4: calculated'

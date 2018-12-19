@@ -2,7 +2,7 @@
 
 ## Summary
 
-Create a function which takes a single integer argument and returns a new function. The resulting function takes an integer argument and multiplies it by the integer from the original function creator.
+Create a function `multiplier` which takes a number `x` as an argument and returns a new function. The resulting function takes another number argument `y`, multiplies it by the first input `x`, and returns the result.
 
 ## Input
 

@@ -2,8 +2,8 @@
 
 ## Summary
 
-Create a function that returns another function. 
-The resulting function contains a boolean variable `lightsOn` and when called will change `lightsOn` from true to false and vice versa.
+Create a function `switchCreator` that returns another function. 
+The resulting function should close over a boolean variable `lightsOn` and when called will toggle the state of `lightsOn` and log the current state to the console.
 
 ## Input
 

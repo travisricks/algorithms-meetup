@@ -2,11 +2,11 @@
 
 ## Summary
 
-Create a function which replicates the functionality of a loop. It should take the following 4 arguments: 
-1. The starting number.
-1. A test function that determines when the loop should stop.
-1. An update function that changes the starting number after each iteration of the loop.
-1. A body function which is called in each loop iteration with the first argument.
+Create a function `loop` which replicates the functionality of a loop. It should take the following 4 arguments: 
+1. `initial`: The starting number.
+1. `test`: A test function that determines when the loop should stop.
+1. `update`: An update function that changes the starting number after each iteration of the loop.
+1. `body`: A body function which is called in each loop iteration with the first argument.
 
 ## Example 1
 

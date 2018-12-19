@@ -2,8 +2,8 @@
 
 ## Summary
 
-Create a function which takes a value and another function as arguments.
-It should return the results of the argument function called with the value.
+Create a function `execute` which takes two arguments; a value of any kind `param` and another function `func`.
+`execute` should return the result of calling `func` with `param` as an argument.
 
 ## Input
 
