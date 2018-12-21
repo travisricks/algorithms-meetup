@@ -30,7 +30,7 @@ Input:
 
 ```
 let array = [];
-loop(0, x => x < 5, x => x + 1, array.push)
+loop(0, x => x < 5, x => x + 1, array.push.bind(array))
 console.log(array)
 ```
 
