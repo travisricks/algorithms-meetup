@@ -2,13 +2,13 @@
 
 ## Summary
 
-Create a function `multiplier` which takes a number (`x`) as an argument and returns a new function. The resulting function takes another number argument (`y`), multiplies it by the first input (`x`), and returns the result.
+Create a function `multiplier` which takes a number (`coefficient`) as an argument and returns a new function. The resulting function takes another number argument (`number`), multiplies it by the first input (`coefficient`), and returns the result.
 
 ## Input
 
-`multiplier` will take an integer (`x`) becomes the multiplier in the resulting function.
-The resulting function will take an integer (`y`) as an argument.
-Assume (`x`) and (`y`) inputs only take integers.
+`multiplier` will take an integer (`coefficient`) that becomes the multiplier in the resulting function.
+The resulting function will take an integer (`number`) as an argument.
+Assume (`coefficient`) and (`number`) inputs only take integers.
 
 ## Output
 

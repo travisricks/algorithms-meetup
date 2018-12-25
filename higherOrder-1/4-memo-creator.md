@@ -19,7 +19,7 @@ function addTwo(x){
   return x + 2;
 }
 
-let plusTwoCalc = memoCreator(function);
+let plusTwoCalc = memoCreator(addTwo);
 
 console.log(plusTwoCalc(2))
 //should log '4: calculated'
