@@ -10,11 +10,13 @@ You can only move up down left or right from your current cell
 
 A 2-D Matrix indicating heights like the following:
 
+```
 04, 05, 06, 07, 18, 19,
 12, 13, 15, 08, 10, 24,
 06, 22, 24, 12, 18, 26
 16, 19, 35, 44, 33, 26
 32, 16, 14, 12, 34, 26
+```
 
 and a starting coordinate (x, y)
 (2, 1) -> 35

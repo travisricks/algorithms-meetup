@@ -11,8 +11,9 @@ Insert an arbitrary number of plus signs such that string S evaluates to the num
 2. Target number to evaluate to
 
 ## Example Inputs
-
+```
 15112 28
 120012 33
 123 123
 15489001 10549
+```
