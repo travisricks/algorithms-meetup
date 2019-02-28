@@ -11,9 +11,13 @@ If you hit any walls or go outside the border, return "Fail".
 If you run out of moves before finding the endpoint, return "Lost". 
 
 Key:
+
 0 = Safe place to walk
+
 1 = Wall
+
 2 = Start Point
+
 3 = Finish Point
 
 # Inputs
