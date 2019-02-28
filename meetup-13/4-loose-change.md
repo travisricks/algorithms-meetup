@@ -10,4 +10,4 @@ Coin demoninations to consider are: Pennies (1¢), Nickels (5¢), Dimes (10¢) a
 67
 
 # Outputs
-{ Quarters: 1, Dimes: 1, Nickels: 1, Pennies: 2 }
+{ Quarters: 2, Dimes: 1, Nickels: 1, Pennies: 2 }
