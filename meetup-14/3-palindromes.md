@@ -13,8 +13,8 @@ A boolean
 
 ## Example
 
-`"anna"` should return true
-`"nana"` should return true
-`"A Toyota’s a Toyota."` should return true
-`"tooatsao yatotay"` should return true
-`"aiwke,xus"` should return false
+1. `"anna"` should return true
+1. `"nana"` should return true
+1. `"A Toyota’s a Toyota."` should return true
+1. `"tooatsao yatotay"` should return true
+1. `"aiwke,xus"` should return false
