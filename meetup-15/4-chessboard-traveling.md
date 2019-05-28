@@ -4,7 +4,6 @@
 
 How many possible ways can you get from point A to point B on an 8 x 8 chessboard by only moving up and to the right?
 
-
 ## Input
 
 Input is a string consisting of the location of a space on a standard 8 x 8 chessboard.
