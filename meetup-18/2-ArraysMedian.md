@@ -4,7 +4,7 @@
 
 You're in charge of merging two family trees together. The family is pretty big and they want to know who of the children is the middle child. Each family has given you an array containing the ages of their children.
 
-Create an algorithm that finds the median of two number arrays.
+Create an algorithm that finds the median of two sorted number arrays.
 
 ## Input
 
