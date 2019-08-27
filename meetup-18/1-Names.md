@@ -2,7 +2,7 @@
 
 ## Summary
 
-You've adopted a pet and have no idea what to name to give your new family member. You decide to take suggestions from the internet. After day, the suggestions have exploded and you have a very long list of names, some of the names repeated multiple times.
+You've adopted a pet and have no idea what to name to give your new family member. You decide to take suggestions from the internet. After waiting a day, the suggestions have exploded and you have a very long list of names, some of the names repeated multiple times.
 
 Write an algorithm that will take the array of strings and output another array of unique names.
 
