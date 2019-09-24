@@ -1,4 +1,4 @@
-# Count the Number of Nodes in a Complete Binary Tree
+# Count the Total Nodes in a Complete Binary Tree
 
 ## Summary
 
