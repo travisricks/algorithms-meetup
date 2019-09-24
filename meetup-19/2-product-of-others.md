@@ -15,6 +15,6 @@ Array/list of numbers/integers.
 ## Example
 
 Input: `[1, 2, 3, 4]`
-Outupt: `[24, 12, 8, 6]`
+Output: `[24, 12, 8, 6]`
 
 Because `[2 * 3 * 4, 1 * 3 * 4, 1 * 2 * 4, 1 * 2 * 3]`
